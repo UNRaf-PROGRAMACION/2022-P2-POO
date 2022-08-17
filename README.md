@@ -1,4 +1,4 @@
-# 2022-P2-POO
+# 2022 P2 POO
 
 Clase JUGADOR
 * Propiedades
